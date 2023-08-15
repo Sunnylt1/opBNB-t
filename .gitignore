@@ -1,0 +1,7 @@
+.idea
+.env
+node_modules
+accounts/*.json
+accounts/fuel_wallets.json
+accounts/erc20_wallets.json
+accounts/ArgentX_wallets.json
