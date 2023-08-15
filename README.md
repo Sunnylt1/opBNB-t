@@ -25,9 +25,10 @@ npm install
 
 
 ## ✔️ Usage
+``
+npm run opbnb_task
+``
 
-
-**Successfully registered referrals are saved in** ```registered.txt``` **in the format** ```{email}:{address}:{private_key}```
 
 ## 📧 Contacts
 + Twitter - [@mixbeefan](https://t.me/flamingoat)
