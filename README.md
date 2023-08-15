@@ -31,4 +31,4 @@ npm run opbnb_task
 
 
 ## 📧 Contacts
-+ Twitter - [@mixbeefan](https://t.me/flamingoat)
++ Twitter - [@mixbeefan](https://twitter.com/mixbeefan)
